@@ -132,6 +132,7 @@ color: #404bbf
     text-decoration: none;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -288,7 +289,7 @@ gap: 24px;
        
         .team-card {background-color: #FFFFFF;
                 border-radius: 0px 0px 4px 4px;
-                padding: 32px 16px;
+                padding: 32px 0px;
         }
 
       .team-name {font-family: inherit;
